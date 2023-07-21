@@ -13,6 +13,5 @@ public class Demo1
 		System.out.println(al);
 		System.out.println("Welcome");
 		System.out.println("Welcome to pune");
-		System.out.println("Welcome to git");
 	}
 }
